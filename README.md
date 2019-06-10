@@ -1,2 +1,2 @@
 # dctestdrive.github.io
-All Thing Web Test Ride
+All Things Web Test Ride
